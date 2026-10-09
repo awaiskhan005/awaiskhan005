@@ -40,7 +40,7 @@
 - 🎓 I maintain CalibreAI's **Data Science & AI training roadmap** and mentor interns across foundations → agentic AI.
 - 💼 Freelance AI/automation developer on **Upwork** with a **100% Job Success Score**.
 - 🎓 Studied at **Karakoram International University (KIU)**, Gilgit — economics, econometrics & statistics.
-- 🏏 Off-keyboard: I play cricket for Calibreon International.
+  
 
 ---
 
