@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3 align="center">🧠 AI Engineer · Agentic Systems · Workflow Automation · Voice AI · RAG · Data Science</h3>
+<h3 align="center">🧠 AI Engineer · Agentic Systems · Workflow Automation · LLMS · Voice AI · RAG · Data Science</h3>
 
 <p align="center"><i>I build AI agents and automations that run real business operations — from 44-node n8n lead-gen systems and Salesforce-connected voice agents to grounded RAG chatbots and multi-agent research crews — designed for production, not just notebooks.</i></p>
 
@@ -39,7 +39,7 @@
 - 📈 Background in **data science & deep learning** — time-series forecasting (BiLSTM, XGBoost+LSTM, Amazon Chronos), computer vision and NLP.
 - 🎓 I maintain CalibreAI's **Data Science & AI training roadmap** and mentor interns across foundations → agentic AI.
 - 💼 Freelance AI/automation developer on **Upwork** with a **100% Job Success Score**.
-- 🎓 Studying at **Karakoram International University (KIU)**, Gilgit — economics, econometrics & statistics.
+- 🎓 Studied at **Karakoram International University (KIU)**, Gilgit — economics, econometrics & statistics.
 - 🏏 Off-keyboard: I play cricket for Calibreon International.
 
 ---
